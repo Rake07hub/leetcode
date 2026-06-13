@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rake07hub/leetcode/tree/master/0013-roman-to-integer) |
 | [2413-smallest-even-multiple](https://github.com/Rake07hub/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Rake07hub/leetcode/tree/master/2413-smallest-even-multiple) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Rake07hub/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Rake07hub/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
