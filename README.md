@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rake07hub/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Rake07hub/leetcode/tree/master/0070-climbing-stairs) |
 | [2413-smallest-even-multiple](https://github.com/Rake07hub/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rake07hub/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rake07hub/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rake07hub/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
